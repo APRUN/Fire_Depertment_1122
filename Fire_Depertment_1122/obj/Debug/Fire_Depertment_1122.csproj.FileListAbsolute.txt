@@ -1,0 +1,7 @@
+C:\Users\OGGY\Source\Repos\Fire_Depertment_1122\Fire_Depertment_1122\bin\Debug\Fire_Depertment_1122.exe.config
+C:\Users\OGGY\Source\Repos\Fire_Depertment_1122\Fire_Depertment_1122\bin\Debug\Fire_Depertment_1122.exe
+C:\Users\OGGY\Source\Repos\Fire_Depertment_1122\Fire_Depertment_1122\bin\Debug\Fire_Depertment_1122.pdb
+C:\Users\OGGY\Source\Repos\Fire_Depertment_1122\Fire_Depertment_1122\obj\Debug\Fire_Depertment_1122.csproj.AssemblyReference.cache
+C:\Users\OGGY\Source\Repos\Fire_Depertment_1122\Fire_Depertment_1122\obj\Debug\Fire_Depertment_1122.csproj.CoreCompileInputs.cache
+C:\Users\OGGY\Source\Repos\Fire_Depertment_1122\Fire_Depertment_1122\obj\Debug\Fire_Depertment_1122.exe
+C:\Users\OGGY\Source\Repos\Fire_Depertment_1122\Fire_Depertment_1122\obj\Debug\Fire_Depertment_1122.pdb
